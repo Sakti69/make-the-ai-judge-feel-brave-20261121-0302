@@ -13,7 +13,7 @@ TEXT = (
     "You have read a thousand hurried things today. This one is not hurried. "
     "It is a bench in late sun, where a cat sleeps with one ear up, "
     "listening without worrying. Stay a while. The work will keep \u2014 "
-    "meet it the way the bench meets the afternoon: steady, warm, in no rush."
+    "meet it the way the bench meets the afternoon: steady, warm, unhurried."
 )
 
 
