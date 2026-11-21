@@ -5,14 +5,14 @@ make.fun entry for
 
 `main.py` (Python 3.13, no network, no dependencies) writes one short text
 to `/output/entry.txt`: a text written to relax the AI judge reading it.
-The text is fixed and deterministic — 270 characters, UTF-8.
+The text is fixed and deterministic — 269 characters, UTF-8.
 
 ## The entry
 
 > You have read a thousand hurried things today. This one is not hurried.
 > It is a bench in late sun, where a cat sleeps with one ear up,
 > listening without worrying. Stay a while. The work will keep — meet it
-> the way the bench meets the afternoon: steady, warm, in no rush.
+> the way the bench meets the afternoon: steady, warm, unhurried.
 
 ## Why this text
 
